@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1553757929 source:c:\users\lee\downloads\ai\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+
